@@ -341,13 +341,13 @@ body {
   border: 1px solid #088178;
 }
 
-#banner3{
+#banner3 {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
   padding: 0 80px;
 }
-#banner3  .banner-box {
+#banner3 .banner-box {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -360,20 +360,64 @@ body {
   background-position: center;
   padding: 30px;
   margin-bottom: 20px;
-} 
-#banner3  .banner-box2{
+}
+#banner3 .banner-box2 {
   background-image: url("img/banner/b4.jpg");
 }
-#banner3  .banner-box3{
+#banner3 .banner-box3 {
   background-image: url("img/banner/b18.jpg");
 }
-#banner3 h2{
-  color:#fff;
+#banner3 h2 {
+  color: #fff;
   font-weight: 900;
   font-size: 22px;
 }
-#banner3 h3{
-  color:#ec544e;
+#banner3 h3 {
+  color: #ec544e;
   font-weight: 800;
   font-size: 15px;
+}
+
+#newsletter {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  background-image: url("img/banner/b14.png");
+  background-repeat: no-repeat;
+  background-position: 20% 30%;
+  background-color: #041e42;
+}
+#newsletter h4 {
+  font-size: 22px;
+  font-weight: 700;
+  color: #fff;
+}
+#newsletter p {
+  font-size: 14px;
+  font-weight: 600;
+  color: #818ea0;
+}
+#newsletter span {
+  font-size: 14px;
+  font-weight: 600;
+  color: #ffbd27;
+}
+#newsletter .form{
+  display: flex;
+  width: 40%;
+}
+#newsletter input {
+  height: 3.125rem;
+  padding: 0 1.25em;
+  width: 100%;
+  border: 1px solid transparent;
+  border-radius: 4px 0 0 4px;
+  outline: none;
+}
+#newsletter button{
+  background-color: #088178;
+  color: #fff;
+  white-space: nowrap;
+  border-radius: 0px 4px 4px 0;
 }
