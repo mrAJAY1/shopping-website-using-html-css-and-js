@@ -1,7 +1,7 @@
-# Shopping App Using HTML, CSS & JavaScript
+# Shopping Website Using HTML, CSS & JavaScript
 
 This is a complete application created using HTML, CSS & JS. 
 Aim of this project is to master learn the skills of only using html, css and js to build an entire website.
 
 
-## :arrow_upper_right:	 [Website Hosted Here](https://mrajay1.github.io/shopping-app-using-html-css-and-js/)
+## :arrow_upper_right:	 [Website Hosted Here](https://mrajay1.github.io/shopping-website-using-html-css-and-js/)
