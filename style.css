@@ -536,6 +536,7 @@ footer .copyright {
     color: #1a1a1a;
     font-size: 24px;
     padding-left: 20px;
+    cursor: pointer;
   }
   #close {
     display: initial;
@@ -639,5 +640,5 @@ footer .copyright {
   footer .copyright {
     text-align: center;
     line-height: 1.5;
-  } 
+  }
 }
